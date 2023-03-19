@@ -1,0 +1,73 @@
+.login{
+    text-align: center;
+    background-color: black;
+    width: 400px;
+    margin-top: 200px;
+    padding-left: auto;
+    padding-top: 50px;
+    padding-bottom: 30px  ;
+    border-radius: 3%;
+}
+h2{
+    color: white;
+}
+
+:root{
+    justify-content: center;
+    display: flex ;
+    background-image: url('white.jpg');
+    
+}
+.userName{
+    margin: 50px;
+    color: white;
+}
+
+
+.submit {
+    background-color: orange;
+    color: white;
+    BORDER-color: orange;
+    border-radius: 10;
+    height: auto;
+    width: auto;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 30px;
+    margin: 20px;
+
+    padding-right: 50px;
+    padding-left: 50px;
+    text-align: center;
+
+
+}
+.submit:hover{
+    background-color: rgb(250, 193, 88);
+
+}
+.submit:active{
+    opacity: 0.8;
+}
+
+
+h1{
+    text-align: center;
+    font-family: 'Brush Script MT', cursive;
+
+    font-size: 100px;
+}
+
+.signup{
+    color: white;
+    
+}
+
+.click{
+    color: red;
+}
+
+#prank{
+    color: red
+}
+
