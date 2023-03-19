@@ -18,30 +18,34 @@
                      
             <h2>Login </h2>
             <section class="userName">
-                <p ><i class="fas fa-user" style="margin-right: 5px;"></i><input type="text" size="30" placeholder="username" title="user name"></p>
+        
+                <p ><i class="fas fa-user" style="margin-right: 5px;" id="profile"></i><input id="inputUser" type="text" size="30" placeholder="username"></p>
+          
+
                 <p ><i class="fas fa-lock" style="margin-right: 5px;"></i><input type="password" size="30" placeholder="password"></p>
            </section>
+
 
 
            <section>
 
 
-            <button class="submit">
+            <button class="submit" id="login">
                 login
             </button>
 
            </section>
 
            <section>
-            <p class="signup">Don't have an account? <p class="click">click here</p></p>
+            <p class="signup">Don't have an account? <br>
+                <a id="prank" href="petmalu.jpg">Click Here</a></p>
            </section>
-           
+           <script src="functions.js"></script>
     
             
         </main>
     </div>
 </body>
-</html>
 
 
 
