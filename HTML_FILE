@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>myWebsite</title>
+    <link rel="stylesheet" type="text/css" href="myWebsite_css.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
+</head>
+
+<body>
+    <h1 class="my-heading">
+        welcome
+    </h1>
+
+    <div class="login">
+        <main>
+                     
+            <h2>Login </h2>
+            <section class="userName">
+                <p ><i class="fas fa-user" style="margin-right: 5px;"></i><input type="text" size="30" placeholder="username" title="user name"></p>
+                <p ><i class="fas fa-lock" style="margin-right: 5px;"></i><input type="password" size="30" placeholder="password"></p>
+           </section>
+
+
+           <section>
+
+
+            <button class="submit">
+                login
+            </button>
+
+           </section>
+
+           <section>
+            <p class="signup">Don't have an account? <p class="click">click here</p></p>
+           </section>
+           
+    
+            
+        </main>
+    </div>
+</body>
+</html>
+
+
+
+
+
+ 
+
+
